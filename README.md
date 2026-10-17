@@ -1,4 +1,4 @@
-# Data Centre Relocation — 108-Device Rack Migration
+# Data Centre Relocation - 108-Device Rack Migration
 
 ## Overview
 Physical decommissioning, relocation, and recommissioning of 108 network and compute devices for a top-5 pan African banking client's data centre at Samrand, driven by a new BON expansion. Executed on-site by a 4-person team during after-hours maintenance windows between 8 and 29 October 2026, with zero downtime to production services.
